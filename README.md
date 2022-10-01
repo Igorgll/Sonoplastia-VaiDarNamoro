@@ -9,7 +9,7 @@
 ## 💻 Projeto
 Projeto feito para replicar a sonoplastia do programa **Vai dar Namoro** no navegador. O foco da aplicação é manipular o objeto [Audio](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio) do _JavaScript_ a partir do clique em botões ou dos eventos do teclado.
 
-[Deploy do Projeto](https://sonoplastia.leonardovargas.dev/)
+[Deploy do Projeto](https://sonoplastia-vai-dar-namoro.netlify.app/)
 
 ## 🚀 Tecnologias
 
