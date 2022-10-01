@@ -25,8 +25,8 @@
       "path": "./assets/sounds/cavalo.mp3"
     }, {
       "hotkey": "d",
-      "label": "esqueça tudo",
-      "path": "./assets/sounds/esqueca-tudo.mp3"
+      "label": "demaiss",
+      "path": "./assets/sounds/demaais.mp3"
     }, {
       "hotkey": "f",
       "label": "olha ele aê",
@@ -44,6 +44,10 @@
       "label": "é brincadeira",
       "path": "./assets/sounds/e-brincadeira-ein.mp3"
     }, {
+      "hotkey": "k",
+      "label": "dança gatinho, dança",
+      "path": "./assets/sounds/danca-gatinho.mp3"
+    }, {
       "hotkey": "v",
       "label": "chegaaa",
       "path": "./assets/sounds/cheega.mp3"
@@ -51,5 +55,13 @@
       "hotkey": "b",
       "label": "ele gostaaaaaa",
       "path": "./assets/sounds/ele-gosta.mp3"
+    }, {
+      "hotkey": "n",
+      "label": "vai dar namoro",
+      "path": "./assets/sounds/vaidarnamoro.mp3"
+    }, {
+      "hotkey": "m",
+      "label": "pare",
+      "path": "./assets/sounds/pare.mp3"
     }
   ]
